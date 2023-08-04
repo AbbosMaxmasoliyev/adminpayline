@@ -14,8 +14,8 @@ function App() {
 
   const router = createBrowserRouter([
     {
-      path: "/",
-
+      path: "/adminpayline",
+      index:"/adminpayline",
       element: <Country />,
     },
     {
